@@ -1,0 +1,21 @@
+{
+  "name": "dashbaord",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-d3-basic": "^1.6.11",
+    "react-dom": "^16.4.2",
+    "react-player": "^1.6.4",
+    "react-scripts": "1.1.4",
+    "react-svg-gauge": "^1.0.8",
+    "socket.io": "^2.1.1",
+    "video-react": "^0.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
